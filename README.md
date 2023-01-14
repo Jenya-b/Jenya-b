@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Evgeniy, little over 30 and I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+My name is Evgeniy, I'm a little over 30 and I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - 📰: I like learning new things, developing, expanding my boundaries and getting outside my comfort zone.
 
 - :briefcase: I study the stock market and investment instruments.
