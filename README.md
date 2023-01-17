@@ -52,9 +52,10 @@ My name is Evgeniy, I'm a little over 30 and I'm a Frontend Developer <img src="
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jenya-b&theme=dark&background=000000)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jenya-b&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenya-b&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jenya-b&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jenya-b&theme=github_dark)
 
 
 <!--
