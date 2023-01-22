@@ -17,11 +17,11 @@
 ---
 
 ### :man_technologist: About Me :
-- 📰: I like learning new things, developing, expanding my boundaries and getting outside my comfort zone.
+- 📰 I like learning new things, developing, expanding my boundaries and getting outside my comfort zone.
 
 - :briefcase: I study the stock market and investment instruments.
 
-- :fire: In my free time, I like to cook on fire.
+- :fire: I like to cook on fire.
 
 ---
 
