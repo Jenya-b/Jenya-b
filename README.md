@@ -50,6 +50,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jenya-b&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jenya-b&theme=github_dark)
 
+[![codewars](https://www.codewars.com/users/Jenya-b/badges/large)](https://www.codewars.com/users/Jenya-b)
+
 
 <!--
 **Jenya-b/Jenya-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
