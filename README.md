@@ -19,6 +19,8 @@
 ### :man_technologist: About Me :
 - 📰 I like learning new things, developing, expanding my boundaries and getting outside my comfort zone.
 
+- 🚀 Learning "the lean start-up" method.
+
 - :briefcase: I study the stock market and investment instruments.
 
 - :fire: I like to cook on fire.
