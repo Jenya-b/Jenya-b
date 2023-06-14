@@ -23,7 +23,7 @@
 
 - :briefcase: I study the stock market and investment instruments.
 
-- :fire: I like to cook on fire.
+- :fire: I like cooking on fire.
 
 ---
 
